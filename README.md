@@ -18,3 +18,9 @@ The bot also allows for deleting all messages in one channel, or deleting all me
 |---------|-------------|
 | `/nuke` | Delete every message on the server. Optional `channel` and `user` filters. Picking no filters wipes ALL channels. |
 | `/nukefinish` | Kick every member from the server, then the bot leaves. |
+
+## Setup Instructions
+
+**COMING SOON**
+
+Note that due to the long process of getting Discord's approval for public previleged intent bots, I am unable to provide a publicly accessible bot. You will need to create a bot account on the Discord Developer Portal and host the bot yourself. More details about this process will be added here soon.
